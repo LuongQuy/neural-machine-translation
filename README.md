@@ -1,6 +1,6 @@
-#neural-machine-translation \\
-Đây là một chương trình dịch máy Anh-Việt sử dụng LSTM và cơ chế Attention.\\
-Thành viên nhóm gồm:\\
-- Lương Văn Quý\\
-- Nguyễn Xuân Đạt\\
+# neural-machine-translation
+Đây là một chương trình dịch máy Anh-Việt sử dụng LSTM và cơ chế Attention.<br>
+Thành viên nhóm gồm:<br>
+- Lương Văn Quý<br>
+- Nguyễn Xuân Đạt<br>
 - Nguyễn Anh Tuấn
